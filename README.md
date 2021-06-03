@@ -19,10 +19,6 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-### Screenshot
-
-[\images\Screenshot_2021-06-03 Frontend Mentor 3-column preview card component.png]
-
 
 ### Links
 
