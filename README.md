@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-\images\Screenshot_2021-06-03 Frontend Mentor 3-column preview card component.png
+[\images\Screenshot_2021-06-03 Frontend Mentor 3-column preview card component.png]
 
 
 ### Links
